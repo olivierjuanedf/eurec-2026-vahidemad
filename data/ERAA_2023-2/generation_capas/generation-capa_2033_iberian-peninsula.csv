@@ -1,0 +1,20 @@
+zone;production_type;power_capacity;power_capacity_turbine;power_capacity_pumping;power_capacity_injection;power_capacity_offtake;energy_capacity
+iberian-peninsula;Batteries;0.0;0.0;0.0;5500.0;5500.0;11000.0
+iberian-peninsula;Biofuel;0.0;0.0;0.0;0.0;0.0;0.0
+iberian-peninsula;Demand Side Response capacity;2700.0;0.0;0.0;0.0;0.0;0.0
+iberian-peninsula;Gas ;27337.56;0.0;0.0;0.0;0.0;0.0
+iberian-peninsula;Hard Coal;0.0;0.0;0.0;0.0;0.0;0.0
+iberian-peninsula;Hydro - Pondage;0.0;266.0;0.0;0.0;0.0;3700.0
+iberian-peninsula;Hydro - Pump Storage Closed Loop;0.0;6158.49;-6058.59;0.0;0.0;101221.0
+iberian-peninsula;Hydro - Pump Storage Open Loop;0.0;8062.72;-7550.41;0.0;0.0;7781760.0
+iberian-peninsula;Hydro - Reservoir;0.0;15179.69;0.0;0.0;0.0;16064672.5
+iberian-peninsula;Hydro - Run of River;0.0;3929.67;0.0;0.0;0.0;0.0
+iberian-peninsula;Lignite;0.0;0.0;0.0;0.0;0.0;0.0
+iberian-peninsula;Nuclear;2048.72;0.0;0.0;0.0;0.0;0.0
+iberian-peninsula;Oil;0.0;0.0;0.0;0.0;0.0;0.0
+iberian-peninsula;Others non-renewable;4385.61;0.0;0.0;0.0;0.0;0.0
+iberian-peninsula;Others renewable;2892.2;0.0;0.0;0.0;0.0;0.0
+iberian-peninsula;Solar PV;93645.51;0.0;0.0;0.0;0.0;0.0
+iberian-peninsula;Solar Thermal;4185.5;0.0;0.0;0.0;0.0;0.0
+iberian-peninsula;Wind Offshore;3190.0;0.0;0.0;0.0;0.0;0.0
+iberian-peninsula;Wind Onshore;63134.5;0.0;0.0;0.0;0.0;0.0

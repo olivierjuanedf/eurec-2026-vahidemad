@@ -1,0 +1,61 @@
+{
+  "selected_climatic_year": 1989,
+  "selected_countries": [
+    "france",
+    "germany",
+    "italy",
+    "iberian-peninsula",
+    "benelux",
+    "scandinavia",
+    "poland"
+  ],
+  "selected_target_year": 2025,
+  "uc_period_start": "1900/1/1",
+  "uc_period_end": "1900/1/20",
+  "failure_power_capa": 1e10,
+  "failure_penalty": 1e5,
+  "interco_capas_tb_overwritten": {
+    "france2poland": 0,
+    "france2scandinavia": 0,
+    "italy2iberian-peninsula": 0,
+    "italy2poland": 0,
+    "italy2benelux": 0,
+    "italy2scandinavia": 0,
+    "germany2iberian-peninsula": 0,
+    "iberian-peninsula2italy": 0,
+    "iberian-peninsula2germany": 0,
+    "iberian-peninsula2poland": 0,
+    "iberian-peninsula2benelux": 0,
+    "iberian-peninsula2scandinavia": 0,
+    "poland2france": 0,
+    "poland2italy": 0,
+    "poland2iberian-peninsula": 0,
+    "poland2benelux": 0,
+    "benelux2italy": 0,
+    "benelux2iberian-peninsula": 0,
+    "benelux2poland": 0,
+    "scandinavia2france": 0,
+    "scandinavia2italy": 0,
+    "scandinavia2iberian-peninsula": 0,
+    "germany2italy": 0
+  },
+  "extra_params": {
+    "max_co2_emis_constraints": {
+      "temporal_granularity": "week",
+      "cases": [
+        {
+          "countries": [
+            "france",
+            "germany"
+          ],
+          "upper_bound": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    "co2_emis_price": 10
+  }
+}

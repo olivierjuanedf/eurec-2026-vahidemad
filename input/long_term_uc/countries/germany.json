@@ -1,0 +1,15 @@
+{
+  "team": "germany",
+  "selected_prod_types": {
+    "germany": [
+      "coal",
+      "failure"
+    ]
+  },
+  "capacities_tb_overwritten": {
+    "germany": {
+      "coal": 800,
+      "failure": 10000000.0
+    }
+  }
+}

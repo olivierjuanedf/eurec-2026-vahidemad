@@ -1,0 +1,284 @@
+{
+  "agg_prod_type": {
+    "palette_choice": "own",
+    "marker_choice": "own",
+    "palettes_def": {
+      "own": {
+        "batteries": "pink",
+        "biofuel": "green",
+        "coal": "brown",
+        "dsr": "red",
+        "failure": "gold",
+        "gas": "grey",
+        "hydro_pondage": "blue",
+        "hydro_pump_storage_closed_loop": "blue",
+        "hydro_pump_storage_open_loop": "blue",
+        "hydro_reservoir": "blue",
+        "hydro_run_of_river": "blue",
+        "nuclear": "olive",
+        "oil": "black",
+        "others_fatal": "green",
+        "solar_pv": "yellow",
+        "solar_thermal": "orange",
+        "wind_offshore": "magenta",
+        "wind_onshore": "purple",
+        "other_renewables": "cyan",
+        "other_non_renewables": "slategrey"
+      },
+      "eco2mix": {
+        "batteries": null,
+        "biofuel": "green",
+        "coal": null,
+        "dsr": null,
+        "gas": "red",
+        "hydro_pondage": "blue",
+        "hydro_pump_storage_closed_loop": "blue",
+        "hydro_pump_storage_open_loop": "blue",
+        "hydro_reservoir": "blue",
+        "hydro_run_of_river": "blue",
+        "nuclear": "yellow",
+        "oil": null,
+        "others_fatal": null,
+        "solar_pv": "orange",
+        "solar_thermal": "orange",
+        "wind_offshore": null,
+        "wind_onshore": null,
+        "other_renewables": null,
+        "other_non_renewables": null
+      }
+    },
+    "linestyles_def": {
+      "own": {
+        "batteries": null,
+        "biofuel": null,
+        "coal": null,
+        "dsr": null,
+        "gas": null,
+        "hydro_pondage": null,
+        "hydro_pump_storage_closed_loop": null,
+        "hydro_pump_storage_open_loop": null,
+        "hydro_reservoir": null,
+        "hydro_run_of_river": null,
+        "nuclear": null,
+        "oil": null,
+        "others_fatal": null,
+        "solar_pv": "-",
+        "solar_thermal": "--",
+        "wind_offshore": "-.",
+        "wind_onshore": ":",
+        "other_renewables": "-",
+        "other_non_renewables": null
+      }
+    },
+      "markers_def": {
+        "own": {
+          "batteries": ".",
+          "biofuel": "o",
+          "coal": "v",
+          "dsr": "^",
+          "gas": "<",
+          "hydro_pondage": ">",
+          "hydro_pump_storage_closed_loop": "8",
+          "hydro_pump_storage_open_loop": "s",
+          "hydro_reservoir": "p",
+          "hydro_run_of_river": "*",
+          "nuclear": "d",
+          "oil": "D",
+          "others_fatal": "P",
+          "solar_pv": "^",
+          "solar_thermal": "<",
+          "wind_offshore": "s",
+          "wind_onshore": "8",
+          "other_renewables": "P",
+          "other_non_renewables": "^"
+        }
+      },
+      "order": [
+        "wind_onshore",
+        "wind_offshore",
+        "solar_pv",
+        "solar_thermal",
+        "other_renewables",
+        "others_fatal",
+        "hydro_pondage",
+        "hydro_run_of_river",
+        "hydro_pump_storage_closed_loop",
+        "hydro_pump_storage_open_loop",
+        "hydro_reservoir",
+        "nuclear",
+        "biofuel",
+        "other_non_renewables",
+        "coal",
+        "gas",
+        "oil",
+        "batteries",
+        "dsr",
+        "failure"
+      ]
+    },
+    "year": {
+      "palette_choice": "own",
+      "linestyle_choice": "own",
+      "palettes_def": {
+        "own": {
+          "2025": "blue",
+          "2033": "red"
+        }
+      },
+      "linestyles_def": {
+        "own": {
+          "2025": "-",
+          "2033": "-."
+        }
+      }
+    },
+    "climatic_year": {
+      "palette_choice": "own",
+      "linestyle_choice": "own",
+      "marker_choice": "own",
+      "palettes_def": {
+        "own": {
+          "1982": "brown",
+          "1985": "red",
+          "1987": "olive",
+          "1989": "purple",
+          "1996": "gray",
+          "2003": "yellow",
+          "2010": "green",
+          "2016": "blue"
+        }
+      },
+      "linestyles_def": {
+        "own": {
+          "1982": "-",
+          "1985": "-.",
+          "1987": ":",
+          "1989": "--",
+          "1996": "-",
+          "2003": "-.",
+          "2010": ":",
+          "2016": "--"
+        }
+      },
+      "markers_def": {
+        "own": {
+          "1982": "o",
+          "1985": "*",
+          "1987": "h",
+          "1989": "^",
+          "1996": "1",
+          "2003": "8",
+          "2010": "s",
+          "2016": "p"
+        }
+      }
+    },
+    "zone": {
+      "palette_choice": "own",
+      "palettes_def": {
+        "own": {
+          "ben": "brown",
+          "fra": "purple",
+          "ger": "gray",
+          "ibe": "yellow",
+          "ita": "green",
+          "pol": "black",
+          "sca": "blue"
+        }
+      },
+      "order": [
+        "ben",
+        "fra",
+        "ger",
+        "ibe",
+        "ita",
+        "pol",
+        "sca"
+      ]
+    },
+    "extra_args": {
+      "palette_choice": "own",
+      "linestyle_choice": "own",
+      "marker_choice": "own",
+      "palettes_def": {
+        "own": {
+          "1": "brown",
+          "2": "purple",
+          "3": "gray",
+          "4": "yellow",
+          "5": "green",
+          "6": "black",
+          "7": "blue"
+        }
+      },
+      "linestyles_def": {
+        "own": {
+          "1": "-",
+          "2": ":",
+          "3": "--",
+          "4": "-.",
+          "5": "-",
+          "6": ":"
+        }
+      },
+      "markers_def": {
+        "own": {
+          "1": "o",
+          "2": "^",
+          "3": "1",
+          "4": "8",
+          "5": "s",
+          "6": "p"
+        }
+      }
+    },
+    "fig_style_data_analysis": {
+      "curve_style": "relative",
+      "date_xtick_fmt": "in_letter",
+      "date_xtick_fontsize": 10,
+      "add_day_exp_in_date_xtick": "true",
+      "date_xtick_rotation": 0,
+      "legend_font_size": 11,
+      "plot_dims_order": [
+        "zone",
+        "year",
+        "climatic_year",
+        "extra_args",
+        "agg_prod_type"
+      ],
+      "n_curves_max": 8
+    },
+    "fig_style_monozone_toy_uc_model": {
+      "curve_style": "relative",
+      "date_xtick_fmt": "in_letter",
+      "date_xtick_fontsize": 10,
+      "add_day_exp_in_date_xtick": "true",
+      "date_xtick_rotation": 0,
+      "legend_font_size": 11,
+      "plot_dims_order": [
+        "zone",
+        "year",
+        "climatic_year"
+      ]
+    },
+    "fig_style_multizones_uc_model": {
+      "curve_style": "relative",
+      "date_xtick_fmt": "in_letter",
+      "date_xtick_fontsize": 10,
+      "add_day_exp_in_date_xtick": "true",
+      "date_xtick_rotation": 0,
+      "legend_font_size": 11,
+      "plot_dims_order": [
+        "zone",
+        "year",
+        "climatic_year"
+      ]
+    },
+    "plots_tb_done_data_analysis": null,
+    "plots_tb_done_monozone_toy_uc_model": null,
+    "plots_tb_done_multizones_uc_model": [
+      "prod_stacked",
+      "prod_stacked_with_stock",
+      "marginal_price"
+    ]
+  }

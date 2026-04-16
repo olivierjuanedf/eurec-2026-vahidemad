@@ -1,0 +1,20 @@
+zone;production_type;power_capacity;power_capacity_turbine;power_capacity_pumping;power_capacity_injection;power_capacity_offtake;energy_capacity
+scandinavia;Batteries;0.0;0.0;0.0;100.0;100.0;200.0
+scandinavia;Biofuel;3273.41;0.0;0.0;0.0;0.0;0.0
+scandinavia;Demand Side Response capacity;10524.6;0.0;0.0;0.0;0.0;0.0
+scandinavia;Gas ;3324.86;0.0;0.0;0.0;0.0;0.0
+scandinavia;Hard Coal;866.6;0.0;0.0;0.0;0.0;0.0
+scandinavia;Hydro - Pondage;0.0;0.0;0.0;0.0;0.0;0.0
+scandinavia;Hydro - Pump Storage Closed Loop;0.0;0.0;0.0;0.0;0.0;0.0
+scandinavia;Hydro - Pump Storage Open Loop;0.0;709.32;-759.79;0.0;0.0;15452782.42
+scandinavia;Hydro - Reservoir;0.0;44482.06;0.0;0.0;0.0;109136356.65
+scandinavia;Hydro - Run of River;0.0;7204.48;0.0;0.0;0.0;0.0
+scandinavia;Lignite;0.0;0.0;0.0;0.0;0.0;0.0
+scandinavia;Nuclear;11277.0;0.0;0.0;0.0;0.0;0.0
+scandinavia;Oil;1580.0;0.0;0.0;0.0;0.0;0.0
+scandinavia;Others non-renewable;735.5;0.0;0.0;0.0;0.0;0.0
+scandinavia;Others renewable;6988.23;0.0;0.0;0.0;0.0;0.0
+scandinavia;Solar PV;12108.45;0.0;0.0;0.0;0.0;0.0
+scandinavia;Solar Thermal;0.0;0.0;0.0;0.0;0.0;0.0
+scandinavia;Wind Offshore;2447.3;0.0;0.0;0.0;0.0;0.0
+scandinavia;Wind Onshore;39318.31;0.0;0.0;0.0;0.0;0.0

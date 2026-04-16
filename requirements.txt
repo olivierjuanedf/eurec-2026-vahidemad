@@ -1,0 +1,11 @@
+ipykernel
+linopy==0.5.5
+highspy
+numpy
+pandas
+matplotlib
+matplotlib-inline
+pypsa==0.35.1
+cartopy
+Requests
+gurobipy

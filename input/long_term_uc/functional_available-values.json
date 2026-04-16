@@ -1,0 +1,10 @@
+{
+  "datatypes": [
+    "demand",
+    "net_demand",
+    "fatal_production",
+    "res_capa-factors",
+    "generation_capas",
+    "intercos_capas"
+  ]
+}

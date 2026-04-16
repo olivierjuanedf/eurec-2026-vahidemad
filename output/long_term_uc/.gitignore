@@ -1,0 +1,5 @@
+# Only present to have this subfolder not suppressed by Git
+# Ignore everything in this directory
+.gitignore
+# Except this file
+!.gitignore

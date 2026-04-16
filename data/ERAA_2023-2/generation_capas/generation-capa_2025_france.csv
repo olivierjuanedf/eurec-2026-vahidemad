@@ -1,0 +1,20 @@
+zone;production_type;power_capacity;power_capacity_turbine;power_capacity_pumping;power_capacity_injection;power_capacity_offtake;energy_capacity
+france;Batteries;0.0;0.0;0.0;470.0;470.0;940.0
+france;Biofuel;0.0;0.0;0.0;0.0;0.0;0.0
+france;Demand Side Response capacity;4200.0;0.0;0.0;0.0;0.0;0.0
+france;Gas ;7189.0;0.0;0.0;0.0;0.0;0.0
+france;Hard Coal;0.0;0.0;0.0;0.0;0.0;0.0
+france;Hydro - Pondage;0.0;0.0;0.0;0.0;0.0;0.0
+france;Hydro - Pump Storage Closed Loop;0.0;1950.0;-1950.0;0.0;0.0;10000.0
+france;Hydro - Pump Storage Open Loop;0.0;1850.0;-1850.0;0.0;0.0;90000.0
+france;Hydro - Reservoir;0.0;9539.0;0.0;0.0;0.0;10000000.0
+france;Hydro - Run of River;0.0;13600.0;0.0;0.0;0.0;0.0
+france;Lignite;0.0;0.0;0.0;0.0;0.0;0.0
+france;Nuclear;61761.0;0.0;0.0;0.0;0.0;0.0
+france;Oil;1331.0;0.0;0.0;0.0;0.0;0.0
+france;Others non-renewable;5799.6;0.0;0.0;0.0;0.0;0.0
+france;Others renewable;2265.0;0.0;0.0;0.0;0.0;0.0
+france;Solar PV;18184.99;0.0;0.0;0.0;0.0;0.0
+france;Solar Thermal;0.0;0.0;0.0;0.0;0.0;0.0
+france;Wind Offshore;2015.0;0.0;0.0;0.0;0.0;0.0
+france;Wind Onshore;24058.99;0.0;0.0;0.0;0.0;0.0
